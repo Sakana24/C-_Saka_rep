@@ -1,0 +1,6 @@
+C:\Users\Kid\Desktop\с#\anketa\Anketa\Range\bin\Debug\Range.exe.config
+C:\Users\Kid\Desktop\с#\anketa\Anketa\Range\bin\Debug\Range.exe
+C:\Users\Kid\Desktop\с#\anketa\Anketa\Range\bin\Debug\Range.pdb
+C:\Users\Kid\Desktop\с#\anketa\Anketa\Range\obj\Debug\Range.csproj.CoreCompileInputs.cache
+C:\Users\Kid\Desktop\с#\anketa\Anketa\Range\obj\Debug\Range.exe
+C:\Users\Kid\Desktop\с#\anketa\Anketa\Range\obj\Debug\Range.pdb
