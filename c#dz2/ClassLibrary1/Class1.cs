@@ -136,14 +136,14 @@ namespace ClassLibrary1
         /// <param name="b">Переменная b</param>
         /// <param name="sum">Сумма чисел</param>
         /// <returns></returns>
-        public static int RecursiveSum(int a, int b, int sum = 0)
+        public static int RecursiveSumma(int a, int b, int sum = 0)
         {
             if (a == b) 
                 return sum + b; 
             else
                 sum += a;
             a++;
-            return RecursiveSum(a, b, sum);
+            return RecursiveSumma(a, b, sum);
         }
 
     }

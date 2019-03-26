@@ -26,9 +26,9 @@ namespace recurs1
 
             Pause();
 
-            RecursiveSum(a, b);
+            RecursiveSumma(a, b);
 
-            Print($"Сумма чисел равна: {RecursiveSum(a, b)}");
+            Print($"Сумма чисел равна: {RecursiveSumma(a, b)}");
 
             Pause();
 
