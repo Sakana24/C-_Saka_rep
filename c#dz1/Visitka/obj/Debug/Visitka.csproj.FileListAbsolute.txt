@@ -1,0 +1,7 @@
+C:\Users\Kid\Desktop\с#\anketa\Anketa\Visitka\bin\Debug\Visitka.exe.config
+C:\Users\Kid\Desktop\с#\anketa\Anketa\Visitka\bin\Debug\Visitka.exe
+C:\Users\Kid\Desktop\с#\anketa\Anketa\Visitka\bin\Debug\Visitka.pdb
+C:\Users\Kid\Desktop\с#\anketa\Anketa\Visitka\obj\Debug\Visitka.csproj.CoreCompileInputs.cache
+C:\Users\Kid\Desktop\с#\anketa\Anketa\Visitka\obj\Debug\Visitka.exe
+C:\Users\Kid\Desktop\с#\anketa\Anketa\Visitka\obj\Debug\Visitka.pdb
+C:\Users\Kid\Desktop\с#\anketa\Anketa\Visitka\obj\Debug\Visitka.csprojAssemblyReference.cache

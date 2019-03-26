@@ -1,0 +1,6 @@
+C:\Users\Kid\Desktop\с#\anketa\Anketa\MethodRange\bin\Debug\MethodRange.exe.config
+C:\Users\Kid\Desktop\с#\anketa\Anketa\MethodRange\bin\Debug\MethodRange.exe
+C:\Users\Kid\Desktop\с#\anketa\Anketa\MethodRange\bin\Debug\MethodRange.pdb
+C:\Users\Kid\Desktop\с#\anketa\Anketa\MethodRange\obj\Debug\MethodRange.csproj.CoreCompileInputs.cache
+C:\Users\Kid\Desktop\с#\anketa\Anketa\MethodRange\obj\Debug\MethodRange.exe
+C:\Users\Kid\Desktop\с#\anketa\Anketa\MethodRange\obj\Debug\MethodRange.pdb
