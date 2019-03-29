@@ -1,0 +1,7 @@
+C:\Users\Kid\Desktop\с#\anketa\Anketa\Anketa\obj\Debug\Profile.csprojAssemblyReference.cache
+C:\Users\Kid\Desktop\с#\anketa\Anketa\Anketa\obj\Debug\Profile.csproj.CoreCompileInputs.cache
+C:\Users\Kid\Desktop\с#\anketa\Anketa\Anketa\obj\Debug\Anketa.exe
+C:\Users\Kid\Desktop\с#\anketa\Anketa\Anketa\obj\Debug\Anketa.pdb
+C:\Users\Kid\Desktop\с#\anketa\Anketa\Anketa\bin\Debug\Anketa.exe.config
+C:\Users\Kid\Desktop\с#\anketa\Anketa\Anketa\bin\Debug\Anketa.exe
+C:\Users\Kid\Desktop\с#\anketa\Anketa\Anketa\bin\Debug\Anketa.pdb

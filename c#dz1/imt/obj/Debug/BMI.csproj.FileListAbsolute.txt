@@ -1,0 +1,7 @@
+C:\Users\Kid\Desktop\с#\anketa\Anketa\imt\bin\Debug\imt.exe.config
+C:\Users\Kid\Desktop\с#\anketa\Anketa\imt\bin\Debug\imt.exe
+C:\Users\Kid\Desktop\с#\anketa\Anketa\imt\bin\Debug\imt.pdb
+C:\Users\Kid\Desktop\с#\anketa\Anketa\imt\obj\Debug\BMI.csprojAssemblyReference.cache
+C:\Users\Kid\Desktop\с#\anketa\Anketa\imt\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+C:\Users\Kid\Desktop\с#\anketa\Anketa\imt\obj\Debug\imt.exe
+C:\Users\Kid\Desktop\с#\anketa\Anketa\imt\obj\Debug\imt.pdb
